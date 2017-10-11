@@ -1,4 +1,4 @@
 # gitSkillsTTest.
 paul------------------
 ======================
-DNA
+DNA and simple.
