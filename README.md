@@ -1,4 +1,3 @@
 # gitSkillsTTest.
 paul------------------
-======================
-DNA and simple
+dev file --no-ff
